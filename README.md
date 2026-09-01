@@ -1,4 +1,4 @@
 # this is a new project2 
  
  we want to add these code to the local repo.
- practice repo by swaraj
+ practice repo by swaraj patil.
